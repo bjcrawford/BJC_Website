@@ -1,0 +1,58 @@
+Brett J Crawford
+www.BrettJCrawford.com   
+brettjamescrawford@gmail.com    610-680-6379
+116 Hawkeye Court, Apt 212  |  Iowa City  |  IA  |  52246
+
+Education:
+    TEMPLE UNIVERSITY, College of Science & Technology, Philadelphia, PA
+    Bachelor of Science, Graduation: May 2015
+    Major: Computer Science
+    Cumulative GPA: 4.0
+
+    DELAWARE COUNTY COMMUNITY COLLEGE, Media, Pa
+    Associate of Science, Graduation: December 2012
+    Major: Computer Information Systems
+    Cumulative GPA: 4.0
+
+Technical Experience:
+    Languages: C/C++, Java, PHP, Matlab, Visual Basic, MySQL
+    Software: Eclipse, Zend Studio, NetBeans, Visual Studio, Git, Source-Tree
+    Frameworks: Android Software Development Kit, Zend Framework 2
+    Operating Systems: Mac OS X, Android, Windows, Linux, iOS
+
+Relevant Experience:
+    Information Technology Intern, Summer 2014
+    Vanguard, Malvern, PA 
+      - Assisted with a corporate wide transformation of HR processes and 
+        technologies for a large, international mutual funds company.
+      - Performed research and analysis of human resource management 
+        software mobilization options for both a Salesforce and Workday 
+        deployment.
+
+    Web Developer Intern, Summer 2013
+    Soliant Consulting, Devon, PA 
+      - Worked alongside a technical project lead at a software consulting 
+        company while training heavily in PHP and Zend Framework 2.
+      - Developed a working prototype of a client's existing project 
+        management system using PHP, Zend Framework 2 and mySQL. 
+
+Independent Development Projects:
+    Mirror Free - Individual Project
+      - Independently designed, developed, and implemented with the Eclipse 
+        Integrated Development Environment using the Android Software 
+        Development Kit. 
+      - Published worldwide in seven different languages on the Google Play 
+        Store and the Amazon Appstore with more than 1,000,000 downloads.
+
+
+Awards and Honors: 
+    CIS Outstanding Achievement Award
+        Temple University - Spring 2015
+    Dean's List 
+        Temple University - Spring 2013, Fall 2013, Spring 2014, Fall 2014
+    Academic Merit Scholarship Award
+        Temple University - Spring 2013, Fall 2013, Spring 2014, Fall 2014
+    President's Honors List
+        Delaware County Community College - Fall 2011, Spring 2012, Fall 2012
+    Ellucian Scholarship Award
+        Delaware County Community College - Fall 2012 
