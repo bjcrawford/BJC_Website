@@ -11,6 +11,10 @@
 
       <?php include("includes/header.html"); ?>
 
+      <div id="page" class="home" display="none"></div>
+
+      <!-- Start page content -->
+
       <div class="row">
 
         <div class="col-md-5">
@@ -36,15 +40,18 @@
           <br/>
           <h2>LinkedIn</h2>
           <p>You can view my experience and skills or connect with me on my LinkedIn profile.</p>
-          <p><a href="http://www.linkedin.com/in/brettjcrawford" class="btn btn-primary" role="button"><?php echo $this->translate('Visit my LinkedIn Profile') ?> &raquo;</a></p>
+          <p><a href="http://www.linkedin.com/in/brettjcrawford" class="btn btn-primary" role="button">Visit my LinkedIn Profile &raquo;</a></p>
         </div>
 
       </div>
 
-    </div>
+      <!-- End page content -->
 
     <?php include("includes/footer.html"); ?>
 
+    </div>
+
+  <script>initPage();</script>
   </body>
 
 </html>
