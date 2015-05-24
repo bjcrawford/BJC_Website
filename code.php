@@ -26,7 +26,7 @@
       <div class="row">
 
         <div class="col-md-4">
-          <h2>Mirror</h2>
+          <h3>Mirror</h3>
           <div class="well well-sm">
  	          <img src="/img/mirror.png" class="img-responsive img-rounded">
           </div>
@@ -39,7 +39,7 @@
         </div>
 
         <div class="col-md-4">
-          <h2>bc_shell</h2>
+          <h3>bc_shell</h3>
           <div class="well well-sm">
             <img src="/img/bc_shell.png" class="img-responsive img-rounded">
           </div>
@@ -49,7 +49,7 @@
         </div>
 
         <div class="col-md-4">
-          <h2>Gravity</h2>
+          <h3>Gravity</h3>
           <div class="well well-sm">
             <img src="/img/gravity.png" class="img-responsive img-rounded">
           </div>
@@ -65,7 +65,7 @@
       <div class="row">
 
         <div class="col-md-4">
-          <h2>RasPi Builds</h2>
+          <h3>RasPi Builds</h3>
           <div class="well well-sm">
             <img src="/img/raspibuilds.png" class="img-responsive img-rounded">
           </div>
@@ -75,7 +75,7 @@
         </div>
 
         <div class="col-md-4">
-          <h2>Genetic Algorithms</h2>
+          <h3>Genetic Algorithms</h3>
           <div class="well well-sm">
             <img src="/img/genalgs.png" class="img-responsive img-rounded">
           </div>
@@ -85,7 +85,7 @@
         </div>
 
         <div class="col-md-4">
-          <h2>Stock Information App</h2>
+          <h3>Stock Information App</h3>
           <div class="well well-sm">
             <img src="/img/sia.png" class="img-responsive img-rounded">
           </div>
@@ -101,7 +101,7 @@
       <div class="row">
 
         <div class="col-md-4">
-          <h2>BST Puzzle</h2>
+          <h3>BST Puzzle</h3>
           <div class="well well-sm">
             <img src="/img/bst-puzzle.png" class="img-responsive img-rounded">
           </div>
@@ -111,7 +111,7 @@
         </div>
 
         <div class="col-md-4">
-          <h2>VisualHashTable</h2>
+          <h3>VisualHashTable</h3>
           <div class="well well-sm">
             <img src="/img/hashtablevisualization.png" class="img-responsive img-rounded">
           </div>
@@ -121,7 +121,7 @@
         </div>
 
         <div class="col-md-4">
-          <h2>CallCenterSim</h2>
+          <h3>CallCenterSim</h3>
           <div class="well well-sm">
             <img src="/img/callcentersim.png" class="img-responsive img-rounded">
           </div>
