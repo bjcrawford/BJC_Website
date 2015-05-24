@@ -11,7 +11,7 @@
 
       <?php include("includes/header.html"); ?>
 
-      <div id="page" class="resume" display="none"></div>
+      <div id="page" class="code" display="none"></div>
 
       <!-- Start page content -->
 
@@ -55,6 +55,42 @@
           </div>
             <p>
               <a href="http://github.com/bjcrawford/Gravity"  class="btn btn-primary" role="button">Explore Gravity code &raquo;</a>
+            </p>
+        </div>
+
+      </div>
+
+      <hr>
+
+      <div class="row">
+
+        <div class="col-md-4">
+          <h2>RasPi Builds</h2>
+          <div class="well well-sm">
+            <img src="/img/raspibuilds.png" class="img-responsive img-rounded">
+          </div>
+            <p>
+              <a href="http://cis-linux2.temple.edu:8080/SP15_2308_tuf00901/index.jsp" class="btn btn-primary" role="button">Explore RasPi Builds Site &raquo;</a>
+            </p>
+        </div>
+
+        <div class="col-md-4">
+          <h2>Genetic Algorithms</h2>
+          <div class="well well-sm">
+            <img src="/img/genalgs.png" class="img-responsive img-rounded">
+          </div>
+          <p>
+            <a href="http://github.com/bjcrawford/SGAVariationAnalysis"  class="btn btn-primary" role="button">Explore Genetic Algorithms Code &raquo;</a>
+          </p>
+        </div>
+
+        <div class="col-md-4">
+          <h2>Stock Information App</h2>
+          <div class="well well-sm">
+            <img src="/img/sia.png" class="img-responsive img-rounded">
+          </div>
+            <p>
+              <a href="http://github.com/bjcrawford/StockInformationApp"  class="btn btn-primary" role="button">Explore Stock Information App Code &raquo;</a>
             </p>
         </div>
 

@@ -11,7 +11,7 @@
 
       <?php include("includes/header.html"); ?>
 
-      <div id="page" class="resume" display="none"></div>
+      <div id="page" class="contact" display="none"></div>
 
       <!-- Start page content -->
 
