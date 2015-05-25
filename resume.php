@@ -17,14 +17,14 @@
 
 			<div class="row">
 
-				<div class="col-md-8">
+				<div class="col-xs-6 col-sm-8 col-md-9">
 					<div class="well well-sm">
 						<img src="/docs/BrettJCrawford.png" class="img-responsive">
 					</div>
 			    </div>
 
-				<div class="col-md-3">
-					<br />
+				<div class="col-xs-6 col-sm-4 col-md-3">
+					<br/>
 					<h2>Resume Formats</h2>
 					<ul>
 						<li><a href="/docs/BrettJCrawford.doc">BrettJCrawford.doc</a></li>

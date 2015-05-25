@@ -15,16 +15,20 @@
 
       <!-- Start page content -->
 
-      <h1>Contact Me</h1>
+      <h1>Contact me</h1>
       <hr>
 
       <h3>Email:</h3>
-      &nbsp;&nbsp;&nbsp;&nbsp;brettjamescrawford (at) gmail (dot) com<br />
+      <p class="indent">
+        brettjamescrawford (at) gmail (dot) com
+      </p>
 
-      <h3>Online Communities:</h3>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.linkedin.com/in/brettjcrawford">Brett J Crawford</a> on LinkedIn<br />
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/bjcrawford">bjcrawford</a> on Github<br />
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://stackoverflow.com/users/1545648/bcrawford">bcrawford</a> on StackOverflow<br />
+      <h3>Other:</h3>
+      <p class="indent">
+        <a href="http://www.linkedin.com/in/brettjcrawford">Brett J Crawford</a> (LinkedIn)<br/>
+        <a href="https://github.com/bjcrawford">bjcrawford</a> (Github)<br/>
+        <a href="http://www.wckd-dev.com">wckdDev</a> (Mobile Development)
+      </p>
 
       <!-- End page content -->
 

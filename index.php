@@ -17,12 +17,11 @@
 
       <div class="row">
 
-        <div class="col-md-5">
+        <div class="col-xs-5 col-sm-5 col-md-5">
           <img src="/img/me.jpg" class="img-responsive img-rounded">
         </div>
 
-        <div class="col-md-6">
-          <br/>
+        <div class="col-xs-7 col-sm-7 col-md-7">
           <h2>About Me</h2>
           <p>
             My name is Brett Crawford. I recently graduated from Temple 

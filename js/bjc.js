@@ -20,9 +20,9 @@ function initCurrentPage() {
         document.title = "Resume | BJC";
         document.getElementById("nav-resume").className = "active";
     }
-    else if (document.getElementById("page").className.indexOf("code") > -1) {
-        document.title = "Code | BJC";
-        document.getElementById("nav-code").className = "active";
+    else if (document.getElementById("page").className.indexOf("projects") > -1) {
+        document.title = "Projects | BJC";
+        document.getElementById("nav-projects").className = "active";
     }
     else if (document.getElementById("page").className.indexOf("contact") > -1) {
         document.title = "Contact | BJC";
