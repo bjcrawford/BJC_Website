@@ -24,16 +24,18 @@
         <div class="col-xs-7 col-sm-7 col-md-7">
           <h2>About Me</h2>
           <p>
-            My name is Brett Crawford. I recently graduated from Temple 
+            My name is Brett Crawford. I graduated in spring of 2015 from Temple 
             University in Philadelphia, PA with a degree in computer science. 
-            I enjoy all things computer related and thrive on the idea of 
-            using technology to make our lives better. Recently, I have been 
-            working/playing with the Raspberry Pi in various ways, becoming 
-            familiar with Mac OS X, and working on my Android mobile 
-            application development company, 
-            <a href="http://www.wckd-dev.com">wckdDev</a>. I have recently 
-            moved to Iowa City, Iowa to join my fiancée, Kate, as she attends 
-            the University of Iowa. We live together with our 5 year old pug, 
+            I enjoy all things computer and technology related and thrive on 
+            the idea of using technology to make our lives better. Recently, 
+            I have been working/<a href="http://imgur.com/a/mQdXJ">playing</a> 
+            with the Raspberry 
+            Pi in various ways, becoming familiar with Mac OS X, and working 
+            on my Android mobile application development company, 
+            <a href="http://www.wckd-dev.com">wckdDev</a>. I have just 
+            moved to Iowa City, Iowa to join my wife, Kate, as she attends 
+            the University of Iowa and to start a new position at Rockwell 
+            Collins in Cedar Rapids. We live together with our 5 year old pug, 
             Oscar.
           </p>
           <br/>
