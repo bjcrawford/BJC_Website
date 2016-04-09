@@ -14,7 +14,6 @@
       <div id="page" class="projects" display="none"></div>
 
       <!-- Start page content -->
-
       <h2>Projects</h2>
       <p>
         Listed below are a few of my personal projects.
@@ -25,7 +24,7 @@
         <div class="col-xs-8 col-sm-6 col-md-4">
           <div class="thumbnail">
             <div class="well well-sm">
-   	          <img src="/img/mirror.png" class="img-responsive img-rounded">
+              <img src="/img/mirror.png" class="img-responsive img-rounded">
             </div>
             <div class="caption caption-uniform-block">
               <h3>Mirror</h3>
@@ -179,7 +178,6 @@
         </div>
 
       </div>
-
       <!-- End page content -->
 
       <?php include("includes/footer.html"); ?>

@@ -14,7 +14,6 @@
       <div id="page" class="home" display="none"></div>
 
       <!-- Start page content -->
-
       <div class="row">
 
         <div class="col-xs-5 col-sm-5 col-md-5">
@@ -45,7 +44,6 @@
         </div>
 
       </div>
-
       <!-- End page content -->
 
     <?php include("includes/footer.html"); ?>

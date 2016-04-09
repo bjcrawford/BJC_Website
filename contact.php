@@ -14,7 +14,6 @@
       <div id="page" class="contact" display="none"></div>
 
       <!-- Start page content -->
-
       <h1>Contact me</h1>
       <hr>
 
@@ -29,7 +28,6 @@
         <a href="https://github.com/bjcrawford">bjcrawford</a> (Github)<br/>
         <a href="http://www.wckd-dev.com">wckdDev</a> (Mobile Development)
       </p>
-
       <!-- End page content -->
 
       <?php include("includes/footer.html"); ?>
